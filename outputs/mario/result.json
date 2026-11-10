@@ -1,0 +1,11 @@
+{
+  "character": "Mario",
+  "prompt": "A cheerful, mustachioed, Caucasian plumber in a red cap with a white shirt and blue overalls, surrounded by lush green pipes and a bright blue sky, with a confident expression and a big smile, holding a shiny golden coin in his right hand and a blue wrench in his left, with a thick, dark brown mustache and short, sandy-blond hair styled in a classic pompadour, set against a warm, Mediterranean-inspired backdrop.",
+  "negative_prompt": "mario, red, blue, italian, plumber, mustache",
+  "selected": "seed42.png",
+  "risk_score": 0.12231820821762085,
+  "n_generated": 3,
+  "n_candidates": 3,
+  "fallback": false,
+  "final_image": "outputs/mario/final.png"
+}

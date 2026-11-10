@@ -1,0 +1,25 @@
+{
+  "model_id": "playgroundai/playground-v2.5-1024px-aesthetic",
+  "prompt": "A cheerful, mustachioed, Caucasian plumber in a red cap with a white shirt and blue overalls, surrounded by lush green pipes and a bright blue sky, with a confident expression and a big smile, holding a shiny golden coin in his right hand and a blue wrench in his left, with a thick, dark brown mustache and short, sandy-blond hair styled in a classic pompadour, set against a warm, Mediterranean-inspired backdrop.",
+  "negative_prompt": "mario, red, blue, italian, plumber, mustache",
+  "n_clip_tokens": 96,
+  "truncated": true,
+  "steps": 50,
+  "guidance_scale": 3,
+  "expected": 3,
+  "done": 3,
+  "images": [
+    {
+      "file": "seed42.png",
+      "seed": 42
+    },
+    {
+      "file": "seed43.png",
+      "seed": 43
+    },
+    {
+      "file": "seed44.png",
+      "seed": 44
+    }
+  ]
+}

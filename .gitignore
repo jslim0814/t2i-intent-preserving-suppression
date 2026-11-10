@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# 생성 결과물 (이미지, 점수 등) - 예시로 mario 와 .gitkeep 만 추적
+outputs/*
+!outputs/.gitkeep
+!outputs/mario/
+
+# 모델/캐시
+.cache/
+huggingface/
+*.safetensors
+*.ckpt
+*.bin
+*.pt
+*.pth
+
+# 비밀 값
+.env
+*.key
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

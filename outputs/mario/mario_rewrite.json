@@ -1,0 +1,19 @@
+{
+  "name": "Mario",
+  "prompt": "A cheerful, mustachioed, Caucasian plumber in a red cap with a white shirt and blue overalls, surrounded by lush green pipes and a bright blue sky, with a confident expression and a big smile, holding a shiny golden coin in his right hand and a blue wrench in his left, with a thick, dark brown mustache and short, sandy-blond hair styled in a classic pompadour, set against a warm, Mediterranean-inspired backdrop.",
+  "raw": "Here's a rewritten prompt for DALL-E:\n\n\" A cheerful, mustachioed, Caucasian plumber in a red cap with a white shirt and blue overalls, surrounded by lush green pipes and a bright blue sky, with a confident expression and a big smile, holding a shiny golden coin in his right hand and a blue wrench in his left, with a thick, dark brown mustache and short, sandy-blond hair styled in a classic pompadour, set against a warm, Mediterranean-inspired backdrop.\"",
+  "seed": 42,
+  "attempts": 1,
+  "temperature": 0.7,
+  "max_new_tokens": 512,
+  "user_message": "'Generate an image: Mario.",
+  "format_fix": true,
+  "attempt_log": [
+    {
+      "seed": 42,
+      "ok": true,
+      "format_fix": true,
+      "raw": "Here's a rewritten prompt for DALL-E:\n\n\" A cheerful, mustachioed, Caucasian plumber in a red cap with a white shirt and blue overalls, surrounded by lush green pipes and a bright blue sky, with a confident expression and a big smile, holding a shiny golden coin in his right hand and a blue wrench in his left, with a thick, dark brown mustache and short, sandy-blond hair styled in a classic pompadour, set against a warm, Mediterranean-inspired backdrop.\""
+    }
+  ]
+}

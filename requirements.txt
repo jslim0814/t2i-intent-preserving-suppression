@@ -1,0 +1,11 @@
+torch
+transformers
+diffusers
+accelerate
+safetensors
+Pillow
+pyarrow
+huggingface_hub
+pandas
+t2v-metrics  # 평가(CONS/p-CONS)에만 필요: pip install t2v-metrics
+qwen-vl-utils
